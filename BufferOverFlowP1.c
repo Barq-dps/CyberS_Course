@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-    char password[16];
+    char password[10];
     int flag=0;
     printf("ENter password\n");
     scanf("%s",password);
